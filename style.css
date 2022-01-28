@@ -1,0 +1,21 @@
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: brown;
+
+}
+
+th {
+    background-color: black;
+    color: white;
+}
+
+
+table {
+    background-color:wheat;
+    border: solid black;
+}
+
+p {
+    font-size:smaller;
+    color: red;
+}
